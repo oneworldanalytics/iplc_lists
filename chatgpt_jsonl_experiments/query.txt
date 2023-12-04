@@ -1,0 +1,1 @@
+put the names of the top 30 largest indigenous populations in Bolivia by population in a jsonl file with only the name per line and alternate_names on a new line

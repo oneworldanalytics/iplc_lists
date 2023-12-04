@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Wayuu",
+    "alternate_names": ["Guajiro", "Guayuyo"],
+    "population": 350000,
+    "location": "La Guajira Peninsula (northwest)"
+  },
+  {
+    "name": "Warao",
+    "alternate_names": ["Warau", "Guarauno"],
+    "population": 180000,
+    "location": "Delta Amacuro region (east)"
+  },
+  {
+    "name": "Yanomami",
+    "alternate_names": ["Yanomamö", "Yanomami"],
+    "population": 35000,
+    "location": "Amazon rainforest region (south)"
+  },
+  {
+    "name": "Pemon",
+    "alternate_names": ["Pemón", "Pemõng"],
+    "population": 30000,
+    "location": "Gran Sabana region (southeast)"
+  },
+  {
+    "name": "Bari",
+    "alternate_names": [],
+    "population": 20000,
+    "location": "northwest"
+  },
+  {
+    "name": "Piaroa",
+    "alternate_names": [],
+    "population": 10000,
+    "location": "Orinoco region (south)"
+  },
+  {
+    "name": "Yukpa",
+    "alternate_names": [],
+    "population": 10000,
+    "location": "northwest"
+  },
+  {
+    "name": "Sanema",
+    "alternate_names": [],
+    "population": 5000,
+    "location": "Amazon rainforest region (south)"
+  },
+  {
+    "name": "Yekwana",
+    "alternate_names": [],
+    "population": 5000,
+    "location": "Amazon rainforest region (south)"
+  },
+  {
+    "name": "Añú",
+    "alternate_names": ["Anu"],
+    "population": 5000,
+    "location": "Amazon rainforest region (south)"
+  },
+  {
+    "name": "Baré",
+    "alternate_names": [],
+    "population": 5000,
+    "location": "Amazon rainforest region (south)"
+  },
+  {
+    "name": "Jivi",
+    "alternate_names": [],
+    "population": 5000,
+    "location": "Amazon rainforest region (south)"
+  },
+  {
+    "name": "Yawalapiti",
+    "alternate_names": [],
+    "population": 5000,
+    "location": "Amazon rainforest region (south)"
+  },
+  {
+    "name": "Apalai",
+    "alternate_names": [],
+    "population": 4000,
+    "location": "Amazon rainforest region (south)"
+  },
+  {
+    "name": "Kayapó",
+    "alternate_names": [],
+    "population": 4000,
+    "location": "Amazon rainforest region (south)"
+  }
+]

@@ -1,0 +1,29 @@
+[  {    "name": "Wayuu",    "alternate_names": ["Guajiro", "Guayuyo"],
+    "population": 400000,
+    "location": "La Guajira Peninsula (northwest)"
+  },
+  {
+    "name": "Nasa",
+    "alternate_names": ["Nasa Yuwe"],
+    "population": 250000,
+    "location": "Cauca Department (southwest)"
+  },
+  {
+    "name": "Paez",
+    "alternate_names": ["Paisa", "Nasa"],
+    "population": 170000,
+    "location": "Cauca Department (southwest)"
+  },
+  {
+    "name": "Embera",
+    "alternate_names": ["Embara", "Empera"],
+    "population": 120000,
+    "location": "Chocó Department (northwest)"
+  },
+  {
+    "name": "Awa",
+    "alternate_names": ["A'wa", "Awá"],
+    "population": 100000,
+    "location": "Nariño Department (southwest)"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Quichua",
+    "alternate_names": ["Kichwa"],
+    "population": 220000,
+    "location": "Andes region"
+  },
+  {
+    "name": "Shuar",
+    "alternate_names": ["Jivaro"],
+    "population": 80000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Siona-Secoya",
+    "alternate_names": [],
+    "population": 30000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Waorani",
+    "alternate_names": ["Huaorani", "Waos"],
+    "population": 30000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Achuar",
+    "alternate_names": [],
+    "population": 20000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Cofán",
+    "alternate_names": ["Kofan", "Kofane"],
+    "population": 15000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Sápara",
+    "alternate_names": ["Sapara"],
+    "population": 15000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Zapara",
+    "alternate_names": [],
+    "population": 10000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Andoa",
+    "alternate_names": [],
+    "population": 10000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Shiwiar",
+    "alternate_names": [],
+    "population": 10000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Tikuna",
+    "alternate_names": [],
+    "population": 10000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Tsilhqot'in",
+    "alternate_names": [],
+    "population": 10000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Araona",
+    "alternate_names": [],
+    "population": 8000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Bora",
+    "alternate_names": [],
+    "population": 8000,
+    "location": "Amazon rainforest region (east)"
+  },
+  {
+    "name": "Cayapas",
+    "alternate_names": [],
+    "population": 8000,
+    "location": "Amazon rainforest region (east)"
+  }
+  ]
