@@ -18,6 +18,7 @@ There are a range of language datasets available. Many, but not all, link to the
 - endangered languages project has a very nice map (!) of languages worldwide and a downloadable dataset (folders is endangered languages datase) see [https://www.endangeredlanguages.com/#/3/6.570/14.956/0/100000/0/low/mid/high/unknown](https://www.endangeredlanguages.com/#/3/6.570/14.956/0/100000/0/low/mid/high/unknown)
 - UNESCO Atlas. UNESCO is the host of the United Nations International Decade of Indigenous Languages. Details here: [https://en.wal.unesco.org/]() 
 - The guardian has a cleanish looking list of language names from the UNESCO Atlas that can be found here: [https://www.theguardian.com/news/datablog/2011/apr/15/language-extinct-endangered#data](https://www.theguardian.com/news/datablog/2011/apr/15/language-extinct-endangered#data).
+- [The World Atlas of Language Structures Online](https://wals.info/languoid) includes a table with coordinates and countries and the ISO and WALs codes for language structures. It is an important resources (maintained by 56 authors) are cited and also note the CC-BY licence. There is a zenodo repo for the data at [https://zenodo.org/records/7385533](https://zenodo.org/records/7385533) but it has not been explored. 
 
 ### Issues to consider
 
