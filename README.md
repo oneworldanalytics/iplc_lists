@@ -8,10 +8,7 @@ The goal of the project is to:
 
 - compile available data on indigenous languages as a potential contribution to work on TK indicators
 
-- Explore, using existing internal resources, whether it is possible to make digital texts that reference these languages visible. The expectation is that initially the data may be extremely noisy. The following existing internal resources are the focus: 
-
-- scientific texts from OpenAlex
-- web snapshot data (C4 and later MADLAD or similar)
+- Explore, using existing internal resources, whether it is possible to make digital texts that reference these languages visible. The expectation is that initially the data may be extremely noisy. We can focus initially on scientific literature and then if that works out on web snapshot data.
 
 ### Datasets
 
